@@ -483,6 +483,7 @@
 			baseConfigurationReference = 37BE28EF31E185E6F24D2A1F /* Pods-swift-shopping-cart.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "swift-shopping-cart/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "FlatironSchool.swift-shopping-cart";
@@ -496,6 +497,7 @@
 			baseConfigurationReference = 74140C03C8698D961E7C5353 /* Pods-swift-shopping-cart.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "swift-shopping-cart/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "FlatironSchool.swift-shopping-cart";
@@ -542,7 +544,7 @@
 				4D1879EC1BF4DC3600233542 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		4D1879ED1BF4DC3600233542 /* Build configuration list for PBXNativeTarget "swift-shopping-cart" */ = {
 			isa = XCConfigurationList;
@@ -551,7 +553,7 @@
 				4D1879EF1BF4DC3600233542 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		4D1879F01BF4DC3600233542 /* Build configuration list for PBXNativeTarget "swift-shopping-cartTests" */ = {
 			isa = XCConfigurationList;
@@ -560,7 +562,7 @@
 				4D1879F21BF4DC3600233542 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
